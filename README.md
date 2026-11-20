@@ -6,6 +6,8 @@ This repository contains my Software Engineering laboratory assignments complete
 
 | Lab | Project | Description |
 |---|---|---|
+| Lab 1 | Local Sports Tournament & Bracket Manager | Requirements specification (SRS), UML use case diagram and detailed use case flows |
+| Lab 2 | Local Sports Tournament & Bracket Manager | Agile backlog creation, user story management, sprint planning and sprint simulation using JIRA |
 | Lab 3 | Coffee Kiosk | UML diagrams and system design |
 | Lab 4 | Skyscrapper Stack | Game implementation and feature development |
 | Lab 5 | Pharmacy Manager | Static code analysis using Pylint, Bandit and Flake8 |
@@ -26,6 +28,7 @@ This repository contains my Software Engineering laboratory assignments complete
 
 ## Folder Structure
 
+- `Lab1=L2-Local-Sports-Tournament-&-Bracket-Manager/`
 - `Lab3-Coffee-Kiosk/`
 - `Lab4-Skyscrapper-Stack/`
 - `Lab5-Pharmacy-Manager/`
