@@ -7,6 +7,7 @@ This repository contains my Software Engineering laboratory assignments complete
 | Lab | Project | Description |
 |---|---|---|
 | Lab 3 | Coffee Kiosk | UML diagrams and system design |
+| Lab 4 | Skyscrapper Stack | Game implementation and feature development |
 | Lab 5 | Pharmacy Manager | Static code analysis using Pylint, Bandit and Flake8 |
 | Lab 6 | Museum Admission | Code coverage and branch coverage testing |
 | Lab 7 | Museum Admission Parser | Parser implementation and testing |
@@ -25,13 +26,10 @@ This repository contains my Software Engineering laboratory assignments complete
 
 ## Folder Structure
 
-```text
-PESU-SE-Labs/
-├── Lab3-Coffee-Kiosk/
-├── Lab5-Pharmacy-Manager/
-├── Lab6-L7-Museum-Admission/
-└── README.md
-```
+- `Lab3-Coffee-Kiosk/`
+- `Lab4-Skyscrapper-Stack/`
+- `Lab5-Pharmacy-Manager/`
+- `Lab6-L7-Museum-Admission/`
 
 ## Purpose
 
