@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+pharmacy.dat
+
+venv/
+__pycache__/
+*.pyc
+pharmacy.json
+pharmacy_manager_original.py

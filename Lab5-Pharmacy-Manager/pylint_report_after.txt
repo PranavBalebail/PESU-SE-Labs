@@ -1,0 +1,7 @@
+************* Module pharmacy_manager
+pharmacy_manager.py:302:0: C0304: Final newline missing (missing-final-newline)
+pharmacy_manager.py:196:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 4.83/10, +5.03)
+
